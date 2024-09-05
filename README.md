@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/jon-wood1001/jon-wood1001/blob/main/landscape.gif)
+![MasterHead](https://github.com/jon-wood1001/jon-wood1001/blob/main/icons/landscape.gif)
 ## Hello there👋, I'm Jon Wood
 - 😄 Pronouns: he/him
 - 🌍 Lexington, Kentucky
