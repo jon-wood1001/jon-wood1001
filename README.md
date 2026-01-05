@@ -34,8 +34,6 @@
   </a>
 </p>
 
-## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jon-wood1001&theme=windows-dark&background=000000&starting_year=2023)](https://git.io/streak-stats)
 
 <!--
 **jon-wood1001/jon-wood1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
