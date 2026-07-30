@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/jon-wood1001/jon-wood1001/blob/main/icons/landscape.gif)
-## Hello there👋, I'm Jonathan Wood
+## Hello there👋, I'm Jon
 - 😄 Pronouns: he/him
 - 🌍 Lexington, Kentucky
 - 🎓 Bachelor's of Science in Computer Science
